@@ -1,5 +1,6 @@
 const fs = require('fs');
 const Discord = require('discord.js');
+const token = "NzAxNjE1ODYzNzM5OTczNjcz.Xp0KcQ.gW8UY8XpBLO0WZwbkWP04O8q73M"
 const bot = require('./config.json');
 const utils = require('./utils.js');
 const shlex = require("shlex");
