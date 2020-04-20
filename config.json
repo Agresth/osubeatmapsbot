@@ -3,7 +3,7 @@
     "prefix": "<bot_prefix>",
     "cooldown": <bot_cooldown>,
     "authdata": {
-        "discordToken": "<your_discord_token>",
+        "discordToken": "<NzAxNjE1ODYzNzM5OTczNjcz.Xp1JZg.pMY8mVAMKz4gLr-PSQctlJq1bfU>",
         "peppy": "<osu_api_token>"
     },
     "mysql": {
